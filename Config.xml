@@ -4,6 +4,7 @@
       <Name>Sound.mp3</Name>
       <Sound>Sound.mp3</Sound>
       <Video>Video.mp4</Video>
+      <Page>index.html</Page>
       <Whomakethis>CodeFoxy</Whomakethis>
       <original>
            <platform>twitter</platform>
